@@ -1,23 +1,23 @@
-# 📖 Learning Resources Collection
+# 🌱 Learning Resources
 
-A repository containing study materials, notes, and source codes collected throughout the learning journey from various YouTube tutorials and educational content. 💻
+A collection of study materials, notes, and source codes gathered throughout my learning journey from various tutorials, courses, projects, and educational resources. 💻
 
 This repository is mainly used for:
 
-* 📚 studying new programming concepts and technologies
-* 🧠 gaining a deeper understanding through practical examples
-* 🗂️ organizing learning materials and their source codes in a structured format
-* 🔁 revisiting previously learned topics and exercises
-* 🚀 continuously expanding programming knowledge and skills
+* 📚 exploring new programming concepts, technologies, and tools
+* 🧠 strengthening understanding through practical examples and exercises
+* 🗂️ keeping learning materials and source codes organized in a structured way
+* 🔁 revisiting previously learned topics and improving existing knowledge
+* 🚀 continuously expanding programming skills and technical experience
 
 ---
 
 # 📺 Sources
 
-YouTube tutorials, courses, and educational playlists used during the learning process.
+YouTube tutorials, online courses, educational playlists, and other learning resources used throughout the learning process.
 
 ---
 
 # 🎯 Purpose
 
-The main goal of this repository is continuous learning, acquiring as much knowledge as possible, and creating a well-organized collection of useful materials for future reference.
+The main goal of this repository is to support continuous learning, document progress, and maintain a well-organized collection of valuable resources for future reference.
