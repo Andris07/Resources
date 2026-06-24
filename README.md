@@ -8,7 +8,7 @@ This repository is mainly used for:
 * 🧠 strengthening understanding through practical examples and exercises
 * 🗂️ keeping learning materials and source codes organized in a structured way
 * 🔁 revisiting previously learned topics and improving existing knowledge
-* 🚀 continuously expanding programming skills and technical experience
+* 🧬 continuously expanding programming skills and technical experience
 
 ---
 
