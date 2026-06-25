@@ -1,4 +1,5 @@
-# PyQt5 layouts
+# PyQt5 layout managers
+
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QLabel, QWidget, QVBoxLayout, QHBoxLayout, QGridLayout
 

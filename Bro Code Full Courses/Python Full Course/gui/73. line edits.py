@@ -1,4 +1,4 @@
-# PyQt5 LineEdit
+# PyQt5 line edits
 
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QLineEdit, QPushButton

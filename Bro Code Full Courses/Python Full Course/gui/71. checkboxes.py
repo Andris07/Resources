@@ -1,4 +1,4 @@
-# PyQt5 Checkboxes
+# PyQt5 checkboxes
 
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QCheckBox
