@@ -30,7 +30,7 @@ class Graph:
             print(f"{node} -> ", end="")
 
             for neighbor in self.adjacency_list[node]:
-                print(neighbor, end=" ")
+                print(neighbor, end=" -> ")
 
             print()
 
