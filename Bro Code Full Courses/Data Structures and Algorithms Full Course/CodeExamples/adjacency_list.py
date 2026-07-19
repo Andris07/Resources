@@ -1,4 +1,4 @@
-from node import Node
+from CodeExamples.node import Node
 
 class Graph:
     def __init__(self):
