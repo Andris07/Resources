@@ -41,6 +41,17 @@ class Graph:
 
             print()
 
+    # Helper method for BFS algorithm
+    def get_neighbors(self, node):
+        neighbors = []
+        row = self.matrix[self.nodes.index(node)]
+
+        for i in range(len(row)):
+            if row[i] == 1:
+                neighbors.append(self.nodes[i])
+
+        return neighbors
+
 graph = Graph(5)
 
 graph.add_node(Node("A"))
