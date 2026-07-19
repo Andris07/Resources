@@ -34,6 +34,10 @@ class Graph:
 
             print()
 
+    # Helper method for DFS, BFS algorithms
+    def get_neighbors(self, node):
+        return self.adjacency_list[node]
+
 graph = Graph()
 
 A = Node("A")
