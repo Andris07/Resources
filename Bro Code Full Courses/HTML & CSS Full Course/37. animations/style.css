@@ -1,0 +1,131 @@
+body
+{
+    background-color: hsl(0, 0%, 12%);
+}
+
+#box
+{
+    width: 250px;
+    height: 250px;
+    background-color: hsl(0, 100%, 60%);
+    font-size: 13em;
+    text-align: center;
+    animation-name: slideLeft;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-play-state: running;
+    animation-timing-function: cubic-bezier(0.30, -1.50, 0.50, 2.20);
+}
+
+img
+{
+    height: 250px;
+    width: auto;
+    animation-name: slideLeft;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-play-state: running;
+    animation-timing-function: cubic-bezier(0.30, -1.50, 0.50, 2.20);
+}
+
+@keyframes slideLeft
+{
+    from
+    {
+        transform: translateX(300%);
+    }
+}
+
+@keyframes slideRight
+{
+    to
+    {
+        transform: translateX(300%);
+    }
+}
+
+@keyframes slideUp
+{
+    from
+    {
+        transform: translateY(300%);
+    }
+}
+
+@keyframes slideDown
+{
+    to
+    {
+        transform: translateY(300%);
+    }
+}
+
+@keyframes rotate
+{
+    50%
+    {
+        transform: rotateZ(360deg);
+    }
+}
+
+@keyframes grow
+{
+    50%
+    {
+        transform: scale(2, 2);
+    }    
+}
+
+@keyframes shrink
+{
+    50%
+    {
+        transform: scale(0.5, 0.5);
+    }    
+}
+
+@keyframes fadeIn
+{
+    100%
+    {
+        opacity: 1;
+    }    
+}
+
+@keyframes colorChange
+{
+    0%
+    {
+        background-color: hsl(0, 100%, 60%);
+    }
+    20%
+    {
+        background-color: hsl(35, 100%, 60%);
+    }
+    40%
+    {
+        background-color: hsl(65, 100%, 60%);
+    }
+    60%
+    {
+        background-color: hsl(105, 100%, 60%);
+    }
+    80%
+    {
+        background-color: hsl(200, 100%, 60%);
+    }
+    100%
+    {
+        background-color: hsl(270, 100%, 60%);
+    }
+}
+
+@keyframes glow
+{
+    50%
+    {
+        box-shadow: 0px 0px 50px hsl(60, 100%, 65%);
+    }    
+}
