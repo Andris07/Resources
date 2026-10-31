@@ -212,6 +212,6 @@ Understanding this system is important because computers use a different number 
 
 Continue with:
 
-[`2_number_representation_computer_binary.md`](number_representation_computer_binary.md)
+[`2_number_representation_computer_binary.md`](2_number_representation_computer_binary.md)
 
 This file introduces the **binary number system**, explains how computers represent numbers using only `0` and `1`, and explores how positional values work in base-2.
